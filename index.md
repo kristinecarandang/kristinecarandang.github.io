@@ -3,9 +3,7 @@
 Automation Test Engineer
 
 ## About
-I'm passionate about testing automation with a focus on React Native and end-to-end testing frameworks.
-
-# Technical Skills
+Mobile Test Automation Engineer with 15+ years of experience delivering quality across banking, insurance, energy, telecommunications, and transport industries. Specialises in mobile app test automation using Katalon, Appium, Detox, and BrowserStack, with a strong track record of building automation frameworks from the ground up and integrating them into CI/CD pipelines. Skilled in API test automation with Postman and Playwright, SQL-based data validation, and leveraging AI tools to accelerate framework development and test strategy. ISTQB Foundation Level and Agile-certified, with experience across the full testing lifecycle in fast-paced Agile environments.
 
 ## Testing Skills
 - Certified as ISTQB Foundation Level
