@@ -5,6 +5,22 @@ Automation Test Engineer
 ## About
 Mobile Test Automation Engineer with 15+ years of experience delivering quality across banking, insurance, energy, telecommunications, and transport industries. Specialises in mobile app test automation using Katalon, Appium, Detox, and BrowserStack, with a strong track record of building automation frameworks from the ground up and integrating them into CI/CD pipelines. Skilled in API test automation with Postman and Playwright, SQL-based data validation, and leveraging AI tools to accelerate framework development and test strategy. ISTQB Foundation Level and Agile-certified, with experience across the full testing lifecycle in fast-paced Agile environments.
 
+## Featured Projects
+
+**[Swag Labs UI Test Automation](https://github.com/kristinecarandang/KC-TestAutomation_swaglabs)**
+TypeScript · Playwright · GitHub Actions — End-to-end UI test suite with CI pipeline for automatic test runs on every push.
+
+**[Mobile E2E Testing with Detox](https://github.com/kristinecarandang/DetoxTestApp)**
+React Native · Detox · Jest — Full mobile E2E test setup for iOS and Android.
+
+**[API Test Automation](https://github.com/kristinecarandang/KC_TestAutomation_API)**
+Postman — Organized request/response validation suite for REST API coverage.
+
+**[→ See all projects](/projects/)**
+
+## About
+Mobile Test Automation Engineer with 15+ years of experience delivering quality across banking, insurance, energy, telecommunications, and transport industries. Specialises in mobile app test automation using Katalon, Appium, Detox, and BrowserStack, with a strong track record of building automation frameworks from the ground up and integrating them into CI/CD pipelines. Skilled in API test automation with Postman and Playwright, SQL-based data validation, and leveraging AI tools to accelerate framework development and test strategy. ISTQB Foundation Level and Agile-certified, with experience across the full testing lifecycle in fast-paced Agile environments.
+
 ## Testing Skills
 - Certified as ISTQB Foundation Level
 - Certified Agile Practitioner as a Tester
